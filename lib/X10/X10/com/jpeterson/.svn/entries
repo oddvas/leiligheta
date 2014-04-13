@@ -1,0 +1,34 @@
+10
+
+dir
+118
+https://svn.leiligheta.net/svn/leiligheta/leiligheta/lib/X10/X10/com/jpeterson
+https://svn.leiligheta.net/svn/leiligheta
+
+
+
+2012-07-16T21:33:11.824863Z
+87
+oddvar
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8360275c-df79-2742-a049-4c34fe05d1c4
+
+util
+dir
+
+x10
+dir
+

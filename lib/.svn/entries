@@ -1,0 +1,40 @@
+10
+
+dir
+118
+https://svn.leiligheta.net/svn/leiligheta/leiligheta/lib
+https://svn.leiligheta.net/svn/leiligheta
+
+
+
+2012-07-19T22:55:48.050657Z
+101
+oddvar
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8360275c-df79-2742-a049-4c34fe05d1c4
+
+BeansBinding
+dir
+
+MySQL
+dir
+
+OptimusMini
+dir
+
+X10
+dir
+

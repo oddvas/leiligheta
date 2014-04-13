@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10
+END
+SerialGateway.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/SerialGateway.java
+END
+GatewayState.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/GatewayState.java
+END
+GatewayQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/GatewayQueue.java
+END
+GatewayAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/GatewayAdapter.java
+END
+GatewayException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/GatewayException.java
+END
+AWTGatewayQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/AWTGatewayQueue.java
+END
+ControlError.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/ControlError.java
+END
+TransmitterEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/TransmitterEvent.java
+END
+InterruptedTransmissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/InterruptedTransmissionException.java
+END
+TransmitterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leiligheta/!svn/ver/54/leiligheta/lib/X10/X10/com/jpeterson/x10/TransmitterListener.java
+END
+Gateway.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/Gateway.java
+END
+GatewayImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/GatewayImpl.java
+END
+ControlEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leiligheta/!svn/ver/54/leiligheta/lib/X10/X10/com/jpeterson/x10/ControlEventDispatcher.java
+END
+TransmitterAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/TransmitterAdapter.java
+END
+ControlEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/ControlEvent.java
+END
+GatewayStateError.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/GatewayStateError.java
+END
+X10Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/X10Util.java
+END
+GatewayListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leiligheta/!svn/ver/54/leiligheta/lib/X10/X10/com/jpeterson/x10/GatewayListener.java
+END
+GatewayEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/GatewayEvent.java
+END
+GatewayErrorEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/GatewayErrorEvent.java
+END
+TooManyAttemptsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/TooManyAttemptsException.java
+END
+NullGatewayQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/NullGatewayQueue.java
+END
+ControlException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/ControlException.java
+END
+Transmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/leiligheta/!svn/ver/87/leiligheta/lib/X10/X10/com/jpeterson/x10/Transmitter.java
+END

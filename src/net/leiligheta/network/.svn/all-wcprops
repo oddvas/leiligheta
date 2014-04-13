@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/leiligheta/!svn/ver/118/leiligheta/src/net/leiligheta/network
+END
+ClientMasterInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leiligheta/!svn/ver/116/leiligheta/src/net/leiligheta/network/ClientMasterInterface.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/leiligheta/!svn/ver/116/leiligheta/src/net/leiligheta/network/Client.java
+END
+UDPMulticastServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leiligheta/!svn/ver/112/leiligheta/src/net/leiligheta/network/UDPMulticastServer.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/leiligheta/!svn/ver/118/leiligheta/src/net/leiligheta/network/Server.java
+END
+UDPMulticastClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leiligheta/!svn/ver/116/leiligheta/src/net/leiligheta/network/UDPMulticastClient.java
+END
